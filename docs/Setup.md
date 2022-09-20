@@ -3,8 +3,8 @@
 ### **Craete the database using AWS RDS**
 
   * You need to use the AWS console to create a New database ( Postgres )
-  * Follow the instructions, and make sure to allow connections to your database
-  * Check your database connection using any software or locally using the same project.
+  * Follow the instructions, and make sure to allow all connections to your database using (0.0.0.0/0)
+  * Check your database connection using any software or locally using the same project or using [this code](https://video.udacity-data.com/topher/2021/March/604f604a_configure-a-database-code/configure-a-database-code.zip) after edit.
 
 
 ----
