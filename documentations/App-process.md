@@ -7,4 +7,4 @@
 ( Client ) - Send Request ->[ S3 Bucket ] - Send Data ->[ EB Server ] - Check data and connect to DB ->[ Database ] - Response Back to ->
 [ EB Server ] - Return Data ->[ S3 Bucket ] - Vieweing to ->( Client )
 
-[![](https://github.com/Gooda97/udigram/blob/master/Drawings/App-process.drawio)](https://github.com/Gooda97/udigram/blob/master/Drawings/App-process.drawio)
+![](https://github.com/Gooda97/udigram/blob/master/Drawings/App-process.drawio)
