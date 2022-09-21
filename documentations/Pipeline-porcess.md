@@ -9,5 +9,5 @@
 
 [__Diagram of Deploy Process__]
 
-(CircleCi) - Connect to GitHub -> ( Github ) - Send Data -> ( CircleCi ) - Build Data & Deploy -> [AWS S3] & [EB Environment] -> Return Data to servers
+(CircleCi) - Connect to GitHub -> ( Github ) - Send Data if any push happens -> ( CircleCi ) - Build Data & ask for v alidation & Deploy -> [AWS S3] & [EB Environment] -> Return Data to servers
 

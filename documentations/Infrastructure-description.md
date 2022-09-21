@@ -1,4 +1,4 @@
-# Setup
+# Infrastructure
 
 ### **Craete the database using AWS RDS**
 
