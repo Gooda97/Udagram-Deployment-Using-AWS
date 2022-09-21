@@ -2,7 +2,7 @@
 
 ### 1) Database
 testing the database connection at aws RDS
-[![](https://burham.ml/snp/01.png)](https://burham.ml/snp/01.png)
+[![](https://burham.ml/snp/01.png)]()
 
 ----
 
