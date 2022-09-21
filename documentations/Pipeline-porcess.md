@@ -6,4 +6,4 @@
 
 (CircleCi) - Connect to GitHub -> ( Github ) - Send Data if any push happens -> ( CircleCi ) - Build Data & ask for v alidation & Deploy -> [AWS S3] & [EB Environment] -> Return Data to servers
 
-![image](https://github.com/Gooda97/udigram/blob/master/Drawings/Deploy-process.drawio)
+![image](https://github.com/Gooda97/udigram/blob/master/Drawings/Deploy-process.png)
